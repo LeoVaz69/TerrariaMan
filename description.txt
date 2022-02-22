@@ -1,0 +1,9 @@
+TerrariaMan es un Mod que pretende incorporar Items de Megaman al Juego.
+También Pretende integrar Efectos de Sonido y Música del mismo título.
+
+Versión 0.4:
+-Armadura Completa de RockMan
+-Espada de Sword Man con Efecto de Sonido
+-MegaBuster Funcional y con Efecto de Sonido
+
+Aún En desarrollo.

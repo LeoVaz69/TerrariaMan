@@ -1,0 +1,4 @@
+displayName = Terraria Man
+author = Reuben
+version = 0.6.2
+homepage = https://www.youtube.com/channel/UCMZyUAjO4chZg5eMNf4KL9g

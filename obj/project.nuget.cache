@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9dHwkMhZQDBKFcWcxKPHzyb/5Ybv8SbI+hE2dOLZjQ1R+zRn3f1KXjYkfoe/HZiLq02d+zzQb8qRki4hgswfAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\TerrariaMan\\TerrariaMan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
